@@ -1,0 +1,40 @@
+body{
+    background-image: url(14.jpg);
+    width 100vh;
+}
+#negro{
+    
+    font-size: 20px;
+    color: black;
+    font-family: sans-serif;
+    text-align: justify;
+}
+.cabecera{
+    
+background-color: fuchsia;
+height: 3px; width: 100%;
+color: white; font-size: 20px; text-align: center;
+opacity: 0.2;
+}
+.cabesa1{
+    
+background-color: fuchsia;
+height: 550px; width: 25%;
+color: white; font-size: 20px; text-align: center;
+opacity: 0.3;
+position: absolute; top: 100px; right: 0px; bottom: 0px; left: 0px;
+
+}
+.posicion1{
+    
+    position: absolute; top: 100px; right: 1025px; bottom: 60px; left: 0px;
+}
+.centrado{
+    
+    position: absolute; top: 100px; right: 21px; bottom: 60px; left: 350px;
+}
+.fotos{
+    
+    position: absolute; top: 750px; right: 0px; bottom: 0px; left: 0px;
+    
+}

@@ -1,0 +1,79 @@
+body{
+    
+    background-image: url(images5.jpg);
+    width 100vh;}
+
+.cabecera{
+background-color: magenta;
+height: 75px; width: 100%;
+color: white; font-size: 20px; text-align: center;
+opacity: 0.2;
+}
+#letra{
+    font-family: sans-serif;
+    font-size: 18px;
+    color: coral;
+    
+    
+}
+.pocicioncabecera{
+    position: absolute; top: 8.5px; right: 0px; bottom: 0px; left: 0px;
+}
+.particion{
+    
+    background-color: mediumorchid;
+    height: 7px;
+    color: white; font-size: 20px; text-align: center;
+    opacity: 0.6;
+    position: absolute; top: 120.5px; right: 0px; bottom: 0px; left: 0px;    
+    border-radius: 20%;
+    
+    
+}
+#resalta{
+    font-family: sans-serif;
+    font-size: 18px;
+    color: white;
+    opacity: 0.9;
+    text-align: justify;
+    
+}
+#color{
+    
+    font-family: sans-serif;
+    font-size: 18px;
+    color: black;
+    font-weight: 600;
+    
+}
+.tabla1{
+    
+     position: absolute; top: 269px; right: 780px; bottom: 1px; left: 370;
+}
+.tabla2{
+    
+     position: absolute; top: 269px; right: 575px; bottom: 15px; left: 579;
+    
+}
+.tabla3{
+    
+     position: absolute; top: 269px; right: 369px; bottom: 15px; left: 785;
+    
+}
+.cabecerafin{
+background-color: magenta;
+height: 75px; width: 100%;
+color: white; font-size: 20px; text-align: center;
+opacity: 0.2;
+}
+#textofin{
+    
+    font-family: sans-serif;
+    font-size: 18px;
+    color: coral;
+    position: absolute; top: 779px; right: 0px; bottom: 0px; left: 0px;
+    text-decoration: underline;
+    text-decoration-color: firebrick;
+    
+    
+}

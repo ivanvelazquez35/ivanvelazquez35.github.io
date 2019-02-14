@@ -1,0 +1,74 @@
+body{
+    background-image: url(images%201.jpg);
+    width 100vh;
+}
+.encabezadoIzq{
+    position: absolute; top: 50px; right: -8px; bottom: -221%; left: -1%;
+    margin-right: inherit;
+    opacity: 0.7;
+    background-color: #B97A57;
+}
+.TextoInicial{
+    font-size: 30px;
+    font-family: sans-serif;
+    color: white;
+
+}
+.Texto{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: white;
+    text-align: justify;
+    
+}
+.rompecabeza1{
+	
+	position: relative; top: 450px;
+
+}
+.rompecabeza2{
+	
+	position: relative; top: 491px;
+
+}
+#posicionImagenMano{
+    position: absolute; top: 80px; right: 1px; bottom: 1px; left: 15px;
+    width: 600px;
+}
+#Textoposicion{
+    position: absolute; top: 81px; right: 10px; bottom: 190px; left: 630px;
+}
+.linea{
+     background-color: coral;
+     border-radius: 25px;
+     position: absolute; top: 425px; right: 10px; bottom: 230px; left: 12px;
+    
+}
+.tabla{
+    position: relative; top: 400px;
+}
+#TablaTexto{
+	font-size: 18px;
+    font-family: sans-serif;
+    color: white;
+    text-align: justify;
+}
+.PosicionContenedor2{
+	position: absolute; top: 4px
+}
+.PosicionContenedor3{
+	 position: absolute; top: 1px
+}
+.Regreso{
+	
+	 position: absolute; top: 1194px; right: 100px;
+	font-size: 20px;
+	font-family: sans-serif;
+}
+.Regreso2{
+	position: relative; top: 494px;
+	font-family: sans-serif;
+	font-size: 20px;
+	color: darkcyan;
+	
+}

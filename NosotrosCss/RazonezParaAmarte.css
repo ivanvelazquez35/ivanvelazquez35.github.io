@@ -1,0 +1,63 @@
+body{
+    background-image: url(images7.jpg);
+    width 100vh;
+}
+.cabecera{
+background-color: aqua;
+height: 75px; width: 100%;
+color: white; font-size: 20px; text-align: center;
+opacity: 0.3;
+}
+.encabezadoIzq{
+    position: absolute; top: 100px; right: 80%; bottom: 10%; left: 7px;
+    margin-right: inherit;
+    opacity: 0.9;
+    background-color: #24385C;
+}
+.texto{
+	
+	font-family: sans-serif;
+	font-size: 20px;
+	text-align: justify;
+	color: white;
+	
+}
+#_margen1{
+	
+	position: absolute; top: 10px; right: .5%; bottom: 87.5%; left: 7px;
+	
+}
+#tabla1{
+	
+	position: absolute; top: 370.9px;
+	
+}
+.texto1{
+	
+	font-family: sans-serif;
+	font-size: 20px;
+	color: aqua;
+	opacity: 0.5;
+}
+#MargenIzqFoto{
+	
+	position: absolute; top: 2375px; right: 1014px; bottom: -2047px; left: 117px;
+}
+#MargenDerFoto{
+	
+	position: absolute; top: 2375px; right: 116px; bottom: -2047px; left: 1012px;
+}
+#base{
+position: absolute; top: 3375px; right: 0px; bottom: 0px; left: 0px;
+background-color: black;
+height: 75px; width: 100%;
+color: white; font-size: 20px; text-align: center;
+opacity: 0.7;
+}
+.texto2{
+	font-family: sans-serif;
+	font-size: 20px;
+	text-align: right;
+	color: aqua;
+	opacity: 0.5;
+}
